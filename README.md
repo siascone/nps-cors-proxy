@@ -1,0 +1,1 @@
+# A Proxy Sever for accessing the National Parks Services API from a static HTML/JS app.
